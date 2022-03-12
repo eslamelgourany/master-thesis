@@ -27,6 +27,11 @@ This section list any major frameworks/libraries used to complete the project:
 * [Scikit Learn](https://scikit-learn.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
+* [OpenCV](https://opencv.org/)
+* [ROS](https://www.ros.org/)
+* [Linux](https://www.linux.org/)
+* [Scipy](https://scipy.org/)
+* [Matplotlib](https://matplotlib.org/)
 
 
 <!-- FILE asa -->
@@ -58,3 +63,4 @@ A university thesis is a work protected by the Copyright Act. Extracts, copies a
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments <a name="Acknowledgments"></a>
+I wish to express my gratitude to my professor Karel Košnar.
